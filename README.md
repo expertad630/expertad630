@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayan Das
 - 💼 I'm working as a Front-End Developer
-- 💻 I'm skilled in Angular, Ionic, HTML,CSS,SCSS
+- 💻 I'm skilled in Angular, Ionic, HTML,CSS,SCSS and JavaScript
 - 👀 I’m interested in React, React Native
 - 📫 How to reach me 
       just google: @expertad630
